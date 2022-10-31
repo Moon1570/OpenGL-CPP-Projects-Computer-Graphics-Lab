@@ -14,7 +14,6 @@
 using namespace std;
 
 static float xp=-.55;
-//int static crspeed = 60;
 int static crspeed = 6000000000;
 float crmove = 4;
 float static y11= -3.3;
@@ -26,7 +25,7 @@ int static score= 0;
 int static totalMeter = 0;
 char quote[6][80];
 int numberOfQuotes = 0, i;
-//int static carspeed= 45;
+
 int static carspeed= -500000000000;
 float static sky_red=0;
 float static sky_green= .8;
